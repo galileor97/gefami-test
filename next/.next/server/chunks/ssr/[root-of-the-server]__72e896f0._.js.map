@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///Users/galileor/Development/gefami-test/next/app/providers.tsx"],"sourcesContent":["\"use client\";\nimport { QueryClient, QueryClientProvider } from \"@tanstack/react-query\";\nimport { HeroUIProvider } from \"@heroui/react\";\nimport { ToastProvider } from \"@heroui/toast\";\n\nconst queryClient = new QueryClient();\n\nexport function Providers({ children }: { children: React.ReactNode }) {\n  return (\n    <HeroUIProvider>\n      <QueryClientProvider client={queryClient}>\n        {children}\n      </QueryClientProvider>\n      <ToastProvider />\n    </HeroUIProvider>\n  );\n}\n"],"names":[],"mappings":";;;;AACA;AAAA;AACA;AACA;AAHA;;;;;AAKA,MAAM,cAAc,IAAI,6KAAA,CAAA,cAAW;AAE5B,SAAS,UAAU,EAAE,QAAQ,EAAiC;IACnE,qBACE,8OAAC,gKAAA,CAAA,iBAAc;;0BACb,8OAAC,sLAAA,CAAA,sBAAmB;gBAAC,QAAQ;0BAC1B;;;;;;0BAEH,8OAAC,+JAAA,CAAA,gBAAa;;;;;;;;;;;AAGpB","debugId":null}}]
+}

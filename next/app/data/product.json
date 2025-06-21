@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Gaming ROG Strix",
+    "category": "Electronics", 
+    "price": 15000000,
+    "currency": "IDR",
+    "brand": "ASUS",
+    "description": "Laptop gaming dengan performa tinggi untuk gaming dan content creation",
+    "specifications": {
+      "processor": "Intel Core i7-12700H",
+      "ram": "16GB DDR4",
+      "storage": "512GB SSD",
+      "graphics": "NVIDIA RTX 3060",
+      "display": "15.6 inch 144Hz"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 25,
+      "warehouse": "Jakarta"
+    },
+    "ratings": {
+      "average": 4.5,
+      "totalReviews": 128
+    },
+    "tags": ["gaming", "laptop", "high-performance"],
+    "createdAt": "2024-01-15T08:30:00Z",
+    "updatedAt": "2024-01-20T14:22:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Samsung Galaxy",
+    "category": "Electronics",
+    "price": 12000000,
+    "currency": "IDR", 
+    "brand": "Samsung",
+    "description": "Smartphone flagship dengan kamera AI dan performa terdepan",
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "8GB",
+      "storage": "256GB",
+      "camera": "50MP Triple Camera",
+      "display": "6.2 inch Dynamic AMOLED"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 45,
+      "warehouse": "Surabaya"
+    },
+    "ratings": {
+      "average": 4.7,
+      "totalReviews": 89
+    },
+    "tags": ["smartphone", "flagship", "camera"],
+    "createdAt": "2024-01-10T10:15:00Z",
+    "updatedAt": "2024-01-18T16:45:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Headphone Sony WH-1000XM5",
+    "category": "Audio",
+    "price": 4500000,
+    "currency": "IDR",
+    "brand": "Sony",
+    "description": "Headphone wireless dengan noise cancelling terbaik di kelasnya",
+    "specifications": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.2",
+      "batteryLife": "30 hours",
+      "noiseCancelling": "Active",
+      "weight": "250g"
+    },
+    "availability": {
+      "inStock": false,
+      "quantity": 0,
+      "warehouse": "Bandung"
+    },
+    "ratings": {
+      "average": 4.8,
+      "totalReviews": 203
+    },
+    "tags": ["headphone", "wireless", "noise-cancelling"],
+    "createdAt": "2024-01-05T12:20:00Z",
+    "updatedAt": "2024-01-22T09:30:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch Apple Watch",
+    "category": "Wearables",
+    "price": 6500000,
+    "currency": "IDR",
+    "brand": "Apple",
+    "description": "Smartwatch dengan fitur kesehatan lengkap dan integrasi sempurna dengan iPhone",
+    "specifications": {
+      "displaySize": "45mm",
+      "material": "Aluminum",
+      "sensors": ["Heart Rate", "Blood Oxygen", "ECG"],
+      "waterResistance": "50 meters",
+      "batteryLife": "18 hours"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 15,
+      "warehouse": "Jakarta"
+    },
+    "ratings": {
+      "average": 4.6,
+      "totalReviews": 67
+    },
+    "tags": ["smartwatch", "health", "apple"],
+    "createdAt": "2024-01-08T14:10:00Z",
+    "updatedAt": "2024-01-19T11:15:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Tablet iPad Air M2",
+    "category": "Electronics",
+    "price": 8500000,
+    "currency": "IDR",
+    "brand": "Apple",
+    "description": "Tablet powerful dengan chip M2 untuk produktivitas dan kreativitas",
+    "specifications": {
+      "processor": "Apple M2",
+      "ram": "8GB",
+      "storage": "128GB",
+      "display": "10.9 inch Liquid Retina",
+      "camera": "12MP"
+    },
+    "availability": {
+      "inStock": true,
+      "quantity": 30,
+      "warehouse": "Medan"
+    },
+    "ratings": {
+      "average": 4.4,
+      "totalReviews": 45
+    },
+    "tags": ["tablet", "productivity", "apple"],
+    "createdAt": "2024-01-12T16:25:00Z",
+    "updatedAt": "2024-01-21T13:40:00Z"
+  }
+]

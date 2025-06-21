@@ -1,0 +1,19 @@
+{
+  "name": "Gefami-test",
+  "version": "1.0.0",
+  "description": "Simple Express API with header validation",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Javascript",
+    "API",
+    "Express"
+  ],
+  "author": "Galileor",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/galileor/Development/gefami-test/next/app/%28auth%29/login/layout.tsx"],"sourcesContent":["import React from 'react'\n\nexport default function layout({ children }: { children: React.ReactNode }) {\n  return (\n    <div>\n      {children}\n    </div>\n  )\n}\n"],"names":[],"mappings":";;;;;AAEe,SAAS,OAAO,EAAE,QAAQ,EAAiC;IACxE,qBACE,8OAAC;kBACE;;;;;;AAGP","debugId":null}}]
+}
