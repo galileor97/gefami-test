@@ -73,6 +73,9 @@ export default function Section2() {
 
   return (
     <div className="p-10 bg-gray-100 h-dvh">
+         <span className="text-sm text-gray-500">
+         Question 3-6: API Request, Table, Delete & Key Removal
+        </span>
      <Table>
        <TableHeader>
           <TableColumn>ID</TableColumn>

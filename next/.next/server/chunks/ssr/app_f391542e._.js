@@ -37,12 +37,20 @@ function Home() {
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "rounded-lg border border-gray-300 p-4 gap-4 ",
                     children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                            className: "text-sm text-gray-500",
+                            children: "Question 1 & 2: JSON Data and Dynamic Label"
+                        }, void 0, false, {
+                            fileName: "[project]/app/(pages)/page.tsx",
+                            lineNumber: 22,
+                            columnNumber: 9
+                        }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                             className: "text-2xl font-bold pb-3 border-b border-gray-300",
                             children: "List of products"
                         }, void 0, false, {
                             fileName: "[project]/app/(pages)/page.tsx",
-                            lineNumber: 22,
+                            lineNumber: 25,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -51,12 +59,12 @@ function Home() {
                                     children: product.name
                                 }, product.id, false, {
                                     fileName: "[project]/app/(pages)/page.tsx",
-                                    lineNumber: 27,
+                                    lineNumber: 30,
                                     columnNumber: 15
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/app/(pages)/page.tsx",
-                            lineNumber: 25,
+                            lineNumber: 28,
                             columnNumber: 11
                         }, this)
                     ]
@@ -73,7 +81,7 @@ function Home() {
                             children: "Label Value:"
                         }, void 0, false, {
                             fileName: "[project]/app/(pages)/page.tsx",
-                            lineNumber: 32,
+                            lineNumber: 35,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -81,7 +89,7 @@ function Home() {
                             children: labelValue
                         }, void 0, false, {
                             fileName: "[project]/app/(pages)/page.tsx",
-                            lineNumber: 35,
+                            lineNumber: 38,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$heroui$2f$button$2f$dist$2f$chunk$2d$GT2IF6NJ$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__button_default__as__Button$3e$__["Button"], {
@@ -92,13 +100,13 @@ function Home() {
                             children: "Change Label"
                         }, void 0, false, {
                             fileName: "[project]/app/(pages)/page.tsx",
-                            lineNumber: 36,
+                            lineNumber: 39,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/(pages)/page.tsx",
-                    lineNumber: 31,
+                    lineNumber: 34,
                     columnNumber: 9
                 }, this)
             ]

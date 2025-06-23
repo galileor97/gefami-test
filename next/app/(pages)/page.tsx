@@ -19,6 +19,9 @@ export default function Home() {
     <div className="grid items-start justify-items-center min-h-screen p-8 gap-16 sm:p-20">
       <div className="flex justify-center items-center gap-20">
         <div className="rounded-lg border border-gray-300 p-4 gap-4 ">
+        <span className="text-sm text-gray-500">
+          Question 1 & 2: JSON Data and Dynamic Label
+        </span>
           <h1 className="text-2xl font-bold pb-3 border-b border-gray-300">
             List of products
           </h1>
